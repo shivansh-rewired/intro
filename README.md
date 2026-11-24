@@ -60,32 +60,6 @@ Writing songs, producing music and experimenting with creative ideas.
 
 ---
 
-## `$ github_stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivansh-rewired&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-rewired&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" />
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=shivansh-rewired&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=818CF8&currStreakLabel=60A5FA" />
-
-</div>
-
----
-
-## `$ contribution_activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivansh-rewired&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=818CF8&point=FFFFFF" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### `// Thanks for stopping by!`
