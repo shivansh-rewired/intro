@@ -21,6 +21,8 @@ I love experimenting with technology, building software, exploring Linux and tur
 - 🎵 Singer, songwriter and music producer.
 - 🛠️ Big believer in DIY, experimentation and right to repair.
 
+NOTE - Lost the login to my previous GitHub account "https://github.com/maybe-shivanshgupta", that account is outdated!
+
 ---
 
 ## `$ ls ./projects`
@@ -29,7 +31,7 @@ I love experimenting with technology, building software, exploring Linux and tur
 <tr>
 <td width="50%">
 <h3>⚡ HyperInfinity</h3>
-A custom Linux ecosystem focused on performance, customization and a better desktop experience.
+A custom Linux distro for performance, customization and a better desktop experience. 
 </td>
 <td width="50%">
 <h3>🚲 HyperBike</h3>
